@@ -1,0 +1,1247 @@
+{
+ "meta": {
+  "id": "tt2861424",
+  "name": "Rick and Morty",
+  "year": "2013–",
+  "releaseInfo": "2013–",
+  "genre": [
+   "Animation",
+   "Adventure",
+   "Comedy"
+  ],
+  "genres": [
+   "Animation",
+   "Adventure",
+   "Comedy"
+  ],
+  "country": "United States",
+  "status": "Continuing",
+  "type": "series",
+  "videos": [
+   {
+    "id": "tt2861424:0:1",
+    "season": 0,
+    "number": 1,
+    "name": "The Real Animated Adventures of Doc and Mharti"
+   },
+   {
+    "id": "tt2861424:0:2",
+    "season": 0,
+    "number": 2,
+    "name": "Gatorade Commercial #4"
+   },
+   {
+    "id": "tt2861424:0:3",
+    "season": 0,
+    "number": 3,
+    "name": "SCUD VLOG #12"
+   },
+   {
+    "id": "tt2861424:0:4",
+    "season": 0,
+    "number": 4,
+    "name": "The Freedom of Channel 101"
+   },
+   {
+    "id": "tt2861424:0:5",
+    "season": 0,
+    "number": 5,
+    "name": "Rick and Morty Panel SDCC 2013"
+   },
+   {
+    "id": "tt2861424:0:7",
+    "season": 0,
+    "number": 7,
+    "name": "Behind the Scenes"
+   },
+   {
+    "id": "tt2861424:0:8",
+    "season": 0,
+    "number": 8,
+    "name": "State of Georgia Vs. Denver Fenton Allen"
+   },
+   {
+    "id": "tt2861424:0:9",
+    "season": 0,
+    "number": 9,
+    "name": "Rick and Morty Panel SDCC 2014"
+   },
+   {
+    "id": "tt2861424:0:10",
+    "season": 0,
+    "number": 10,
+    "name": "Rick and Morty Summon Mr. Meeseeks for a Very Important Task"
+   },
+   {
+    "id": "tt2861424:0:11",
+    "season": 0,
+    "number": 11,
+    "name": "Rick and Morty Panel NYCC 2014"
+   },
+   {
+    "id": "tt2861424:0:13",
+    "season": 0,
+    "number": 13,
+    "name": "Rick and Morty Panel SDCC 2015"
+   },
+   {
+    "id": "tt2861424:0:14",
+    "season": 0,
+    "number": 14,
+    "name": "The Misadventures of Rick and Morty"
+   },
+   {
+    "id": "tt2861424:0:15",
+    "season": 0,
+    "number": 15,
+    "name": "Carl's Jr and Hardee's Commercial"
+   },
+   {
+    "id": "tt2861424:0:16",
+    "season": 0,
+    "number": 16,
+    "name": "Rick and Morty: The Non-Canonical Adventures #1 - The Thing"
+   },
+   {
+    "id": "tt2861424:0:17",
+    "season": 0,
+    "number": 17,
+    "name": "Rick and Morty: The Non-Canonical Adventures #2 - The Fly"
+   },
+   {
+    "id": "tt2861424:0:18",
+    "season": 0,
+    "number": 18,
+    "name": "Rick and Morty: The Non-Canonical Adventures #3 - Honey, I Shrunk The Kids"
+   },
+   {
+    "id": "tt2861424:0:19",
+    "season": 0,
+    "number": 19,
+    "name": "Rick and Morty: The Non-Canonical Adventures #4 - Ex Machina"
+   },
+   {
+    "id": "tt2861424:0:20",
+    "season": 0,
+    "number": 20,
+    "name": "Rick and Morty: The Non-Canonical Adventures #5 - Halloween"
+   },
+   {
+    "id": "tt2861424:0:21",
+    "season": 0,
+    "number": 21,
+    "name": "Rick and Morty 8-Bit Intro"
+   },
+   {
+    "id": "tt2861424:0:22",
+    "season": 0,
+    "number": 22,
+    "name": "Rick and Morty Panel SDCC 2016"
+   },
+   {
+    "id": "tt2861424:0:23",
+    "season": 0,
+    "number": 23,
+    "name": "Bushworld Adventures"
+   },
+   {
+    "id": "tt2861424:0:24",
+    "season": 0,
+    "number": 24,
+    "name": "Rick and Morty Presents Jerry's Game from Adult Swim Games"
+   },
+   {
+    "id": "tt2861424:0:25",
+    "season": 0,
+    "number": 25,
+    "name": "GlorpDieBlorp plays “Ten Tuesdays at Tinkles”"
+   },
+   {
+    "id": "tt2861424:0:26",
+    "season": 0,
+    "number": 26,
+    "name": "Jerry & Beth's 8-Bit Virtual Vision"
+   },
+   {
+    "id": "tt2861424:0:27",
+    "season": 0,
+    "number": 27,
+    "name": "Rick TV"
+   },
+   {
+    "id": "tt2861424:0:28",
+    "season": 0,
+    "number": 28,
+    "name": "Meeseeks Battle"
+   },
+   {
+    "id": "tt2861424:0:29",
+    "season": 0,
+    "number": 29,
+    "name": "Gear Head"
+   },
+   {
+    "id": "tt2861424:0:30",
+    "season": 0,
+    "number": 30,
+    "name": "Beth in the Garage"
+   },
+   {
+    "id": "tt2861424:0:31",
+    "season": 0,
+    "number": 31,
+    "name": "Buttworld"
+   },
+   {
+    "id": "tt2861424:0:32",
+    "season": 0,
+    "number": 32,
+    "name": "Poopy the Gymnast"
+   },
+   {
+    "id": "tt2861424:0:33",
+    "season": 0,
+    "number": 33,
+    "name": "Summer in the Bathroom"
+   },
+   {
+    "id": "tt2861424:0:34",
+    "season": 0,
+    "number": 34,
+    "name": "Unity Connections"
+   },
+   {
+    "id": "tt2861424:0:35",
+    "season": 0,
+    "number": 35,
+    "name": "Drunk Rick Method Acting"
+   },
+   {
+    "id": "tt2861424:0:36",
+    "season": 0,
+    "number": 36,
+    "name": "The Search For Meaning"
+   },
+   {
+    "id": "tt2861424:0:37",
+    "season": 0,
+    "number": 37,
+    "name": "Eyehole Man"
+   },
+   {
+    "id": "tt2861424:0:38",
+    "season": 0,
+    "number": 38,
+    "name": "Rick and Morty: The Non-Canonical Adventures #6 - 2001: A Space Odyssey"
+   },
+   {
+    "id": "tt2861424:0:39",
+    "season": 0,
+    "number": 39,
+    "name": "Gearagra"
+   },
+   {
+    "id": "tt2861424:0:40",
+    "season": 0,
+    "number": 40,
+    "name": "Rick and Morty: The Non-Canonical Adventures #7 - Blade Runner"
+   },
+   {
+    "id": "tt2861424:0:41",
+    "season": 0,
+    "number": 41,
+    "name": "Rick and Morty: The Non-Canonical Adventures #8 - Poltergeist"
+   },
+   {
+    "id": "tt2861424:0:42",
+    "season": 0,
+    "number": 42,
+    "name": "Rick and Morty: The Non-Canonical Adventures #9 - Re-Animator"
+   },
+   {
+    "id": "tt2861424:0:43",
+    "season": 0,
+    "number": 43,
+    "name": "Rick and Morty: The Non-Canonical Adventures #10 - Aliens"
+   },
+   {
+    "id": "tt2861424:0:44",
+    "season": 0,
+    "number": 44,
+    "name": "Rick and Morty Design Sneak Peek: Wasteland"
+   },
+   {
+    "id": "tt2861424:0:45",
+    "season": 0,
+    "number": 45,
+    "name": "Rick and Morty: The Non-Canonical Adventures #11 - E.T. the Extra-Terrestrial"
+   },
+   {
+    "id": "tt2861424:0:46",
+    "season": 0,
+    "number": 46,
+    "name": "Inside: 'The Rickshank Redemption'"
+   },
+   {
+    "id": "tt2861424:0:47",
+    "season": 0,
+    "number": 47,
+    "name": "Rick and Morty: The Non-Canonical Adventures #12 - Gremlins"
+   },
+   {
+    "id": "tt2861424:0:48",
+    "season": 0,
+    "number": 48,
+    "name": "Rick and Morty: The Non-Canonical Adventures #13 - A Clockwork Orange"
+   },
+   {
+    "id": "tt2861424:0:49",
+    "season": 0,
+    "number": 49,
+    "name": "Rick and Morty: The Non-Canonical Adventures #14 - Invasion of the Body Snatchers"
+   },
+   {
+    "id": "tt2861424:0:50",
+    "season": 0,
+    "number": 50,
+    "name": "The Art of 'Alts'"
+   },
+   {
+    "id": "tt2861424:0:51",
+    "season": 0,
+    "number": 51,
+    "name": "Rick and Morty: The Non-Canonical Adventures #15 - The Matrix"
+   },
+   {
+    "id": "tt2861424:0:52",
+    "season": 0,
+    "number": 52,
+    "name": "Rick and Morty: The Non-Canonical Adventures #16 - Ghostbusters"
+   },
+   {
+    "id": "tt2861424:0:53",
+    "season": 0,
+    "number": 53,
+    "name": "Justin Roiland's RC Interview Stunt Rally Extravaganza Show!"
+   },
+   {
+    "id": "tt2861424:0:54",
+    "season": 0,
+    "number": 54,
+    "name": "Inside: 'Rickmancing the Stone'"
+   },
+   {
+    "id": "tt2861424:0:55",
+    "season": 0,
+    "number": 55,
+    "name": "Design Sneak Peek: Pickle Rick"
+   },
+   {
+    "id": "tt2861424:0:56",
+    "season": 0,
+    "number": 56,
+    "name": "Inside: 'Pickle Rick'"
+   },
+   {
+    "id": "tt2861424:0:57",
+    "season": 0,
+    "number": 57,
+    "name": "Rick and Morty Origins Part One"
+   },
+   {
+    "id": "tt2861424:0:58",
+    "season": 0,
+    "number": 58,
+    "name": "Who Are 'The Vindicators'?"
+   },
+   {
+    "id": "tt2861424:0:59",
+    "season": 0,
+    "number": 59,
+    "name": "Inside: 'The Whirly Dirly Conspiracy'"
+   },
+   {
+    "id": "tt2861424:0:60",
+    "season": 0,
+    "number": 60,
+    "name": "Inside: 'Rest and Ricklaxation'"
+   },
+   {
+    "id": "tt2861424:0:61",
+    "season": 0,
+    "number": 61,
+    "name": "Justin Roiland RC Video Game Car Grindapalooza Stunt Rally Interview Show!"
+   },
+   {
+    "id": "tt2861424:0:62",
+    "season": 0,
+    "number": 62,
+    "name": "Inside: 'The Ricklantis Mixup'"
+   },
+   {
+    "id": "tt2861424:0:63",
+    "season": 0,
+    "number": 63,
+    "name": "Inside: 'Morty's Mind Blowers'"
+   },
+   {
+    "id": "tt2861424:0:64",
+    "season": 0,
+    "number": 64,
+    "name": "Fathers and Daughters (Full Length Song)"
+   },
+   {
+    "id": "tt2861424:0:65",
+    "season": 0,
+    "number": 65,
+    "name": "Rick and Morty Origins Part Two"
+   },
+   {
+    "id": "tt2861424:0:66",
+    "season": 0,
+    "number": 66,
+    "name": "Inside: 'The ABC's of Beth'"
+   },
+   {
+    "id": "tt2861424:0:67",
+    "season": 0,
+    "number": 67,
+    "name": "Inside: 'The Rickchurian Mortydate'"
+   },
+   {
+    "id": "tt2861424:0:68",
+    "season": 0,
+    "number": 68,
+    "name": "The Poop In My Pants"
+   },
+   {
+    "id": "tt2861424:0:69",
+    "season": 0,
+    "number": 69,
+    "name": "Vindicators promo"
+   },
+   {
+    "id": "tt2861424:0:70",
+    "season": 0,
+    "number": 70,
+    "name": "Rick and Morty x Run The Jewels: Oh Mama"
+   },
+   {
+    "id": "tt2861424:0:71",
+    "season": 0,
+    "number": 71,
+    "name": "Rick and Morty Snickers Promo"
+   },
+   {
+    "id": "tt2861424:0:72",
+    "season": 0,
+    "number": 72,
+    "name": "Inside the Recording Booth with Spencer Grammer"
+   },
+   {
+    "id": "tt2861424:0:73",
+    "season": 0,
+    "number": 73,
+    "name": "Rick and Morty Present at the Emmy Awards"
+   },
+   {
+    "id": "tt2861424:0:74",
+    "season": 0,
+    "number": 74,
+    "name": "Old Spice Commercial"
+   },
+   {
+    "id": "tt2861424:0:75",
+    "season": 0,
+    "number": 75,
+    "name": "Judge Morty: State of Georgia Vs. Rick Allen"
+   },
+   {
+    "id": "tt2861424:0:76",
+    "season": 0,
+    "number": 76,
+    "name": "Alien: Covenant x Rick and Morty"
+   },
+   {
+    "id": "tt2861424:0:139",
+    "season": 0,
+    "number": 139,
+    "name": "Moonmen Music Video (Complete) feat. Fart and Morty"
+   },
+   {
+    "id": "tt2861424:0:140",
+    "season": 0,
+    "number": 140,
+    "name": "Ricking Morty S3E4 \"Vindicators 3: The Return of Worldender\""
+   },
+   {
+    "id": "tt2861424:0:141",
+    "season": 0,
+    "number": 141,
+    "name": "Get Schwifty feat. Open Mike Eagle & Father"
+   },
+   {
+    "id": "tt2861424:0:142",
+    "season": 0,
+    "number": 142,
+    "name": "Goodbye Moonmen (Live From Adult Swim Festival)"
+   },
+   {
+    "id": "tt2861424:0:143",
+    "season": 0,
+    "number": 143,
+    "name": "A Rick and Morty Opera: The Terrible Cobs"
+   },
+   {
+    "id": "tt2861424:0:144",
+    "season": 0,
+    "number": 144,
+    "name": "Blood Dome"
+   },
+   {
+    "id": "tt2861424:0:145",
+    "season": 0,
+    "number": 145,
+    "name": "Drunk Rick Method Acting: Vol. 2"
+   },
+   {
+    "id": "tt2861424:0:146",
+    "season": 0,
+    "number": 146,
+    "name": "Get Schwifty Music Video"
+   },
+   {
+    "id": "tt2861424:0:157",
+    "season": 0,
+    "number": 157,
+    "name": "Rick and Morty San Diego Comic-Con 2019 Panel"
+   },
+   {
+    "id": "tt2861424:0:158",
+    "season": 0,
+    "number": 158,
+    "name": "Rick and Morty React to Their Own Memes - Comic Con 2019"
+   },
+   {
+    "id": "tt2861424:0:159",
+    "season": 0,
+    "number": 159,
+    "name": "Rick and Morty Season 4: Glootie"
+   },
+   {
+    "id": "tt2861424:0:160",
+    "season": 0,
+    "number": 160,
+    "name": "Dan Harmon's Summer Impression - SDCC 2019"
+   },
+   {
+    "id": "tt2861424:0:161",
+    "season": 0,
+    "number": 161,
+    "name": "'Rick and Morty' Cast Joins Us LIVE | SDCC 2019"
+   },
+   {
+    "id": "tt2861424:0:162",
+    "season": 0,
+    "number": 162,
+    "name": "Creators Preview Season 4 Guests, Including Taika Waititi"
+   },
+   {
+    "id": "tt2861424:0:163",
+    "season": 0,
+    "number": 163,
+    "name": "#DeathStranding"
+   },
+   {
+    "id": "tt2861424:0:164",
+    "season": 0,
+    "number": 164,
+    "name": "Rick and Morty: The Non-Canonical Halloween Adventures"
+   },
+   {
+    "id": "tt2861424:0:165",
+    "season": 0,
+    "number": 165,
+    "name": "Season 4 Sneak Peek"
+   },
+   {
+    "id": "tt2861424:0:166",
+    "season": 0,
+    "number": 166,
+    "name": "Extended Season 4 Sneak Peek"
+   },
+   {
+    "id": "tt2861424:0:167",
+    "season": 0,
+    "number": 167,
+    "name": "Inside: 'Edge of Tomorty: Rick Die Rickpeat'"
+   },
+   {
+    "id": "tt2861424:0:168",
+    "season": 0,
+    "number": 168,
+    "name": "Inside: 'The Old Man And The Seat'"
+   },
+   {
+    "id": "tt2861424:0:169",
+    "season": 0,
+    "number": 169,
+    "name": "Inside: 'One Crew Over the Crewcoo's Morty'"
+   },
+   {
+    "id": "tt2861424:0:170",
+    "season": 0,
+    "number": 170,
+    "name": "Rick And Morty Pinball Teaser"
+   },
+   {
+    "id": "tt2861424:0:171",
+    "season": 0,
+    "number": 171,
+    "name": "Inside: 'Claw and Hoarder: Special Ricktim’s Morty'"
+   },
+   {
+    "id": "tt2861424:0:172",
+    "season": 0,
+    "number": 172,
+    "name": "Inside: 'Rattlestar Ricklactica'"
+   },
+   {
+    "id": "tt2861424:0:173",
+    "season": 0,
+    "number": 173,
+    "name": "Samurai & Shogun"
+   },
+   {
+    "id": "tt2861424:0:174",
+    "season": 0,
+    "number": 174,
+    "name": "Rick and Morty x Pringles - 2020 Big Game Commercial"
+   },
+   {
+    "id": "tt2861424:0:175",
+    "season": 0,
+    "number": 175,
+    "name": "Rick and Morty Vs. Genocider"
+   },
+   {
+    "id": "tt2861424:0:176",
+    "season": 0,
+    "number": 176,
+    "name": "Inside: 'Vindicators 3: The Return of Worldender'"
+   },
+   {
+    "id": "tt2861424:0:177",
+    "season": 0,
+    "number": 177,
+    "name": "Rick and Morty in the Eternal Nightmare Machine"
+   },
+   {
+    "id": "tt2861424:0:178",
+    "season": 0,
+    "number": 178,
+    "name": "Summer Meets God (Rick Meets Evil)"
+   },
+   {
+    "id": "tt2861424:0:179",
+    "season": 0,
+    "number": 179,
+    "name": "Exquisite Corpse"
+   },
+   {
+    "id": "tt2861424:0:180",
+    "season": 0,
+    "number": 180,
+    "name": "The Great Yokai Battle of Akihabara"
+   },
+   {
+    "id": "tt2861424:0:181",
+    "season": 0,
+    "number": 181,
+    "name": "Samurai & Shogun Part 2"
+   },
+   {
+    "id": "tt2861424:0:182",
+    "season": 0,
+    "number": 182,
+    "name": "Rick and Morty + adidas X Speedportal | The Adventure"
+   },
+   {
+    "id": "tt2861424:0:183",
+    "season": 0,
+    "number": 183,
+    "name": "Rick and Morty + Wendy’s | Choose Wisely"
+   },
+   {
+    "id": "tt2861424:0:184",
+    "season": 0,
+    "number": 184,
+    "name": "Rick and Morty x PlayStation | God of War Ragnarök"
+   },
+   {
+    "id": "tt2861424:0:185",
+    "season": 0,
+    "number": 185,
+    "name": "Inside the Episode: Solaricks"
+   },
+   {
+    "id": "tt2861424:0:186",
+    "season": 0,
+    "number": 186,
+    "name": "Vindicators 2: First Love"
+   },
+   {
+    "id": "tt2861424:0:187",
+    "season": 0,
+    "number": 187,
+    "name": "Summer's Sleepover"
+   },
+   {
+    "id": "tt2861424:1:1",
+    "season": 1,
+    "number": 1,
+    "name": "Pilot"
+   },
+   {
+    "id": "tt2861424:1:2",
+    "season": 1,
+    "number": 2,
+    "name": "Lawnmower Dog"
+   },
+   {
+    "id": "tt2861424:1:3",
+    "season": 1,
+    "number": 3,
+    "name": "Anatomy Park"
+   },
+   {
+    "id": "tt2861424:1:4",
+    "season": 1,
+    "number": 4,
+    "name": "M. Night Shaym-Aliens!"
+   },
+   {
+    "id": "tt2861424:1:5",
+    "season": 1,
+    "number": 5,
+    "name": "Meeseeks and Destroy"
+   },
+   {
+    "id": "tt2861424:1:6",
+    "season": 1,
+    "number": 6,
+    "name": "Rick Potion #9"
+   },
+   {
+    "id": "tt2861424:1:7",
+    "season": 1,
+    "number": 7,
+    "name": "Raising Gazorpazorp"
+   },
+   {
+    "id": "tt2861424:1:8",
+    "season": 1,
+    "number": 8,
+    "name": "Rixty Minutes"
+   },
+   {
+    "id": "tt2861424:1:9",
+    "season": 1,
+    "number": 9,
+    "name": "Something Ricked This Way Comes"
+   },
+   {
+    "id": "tt2861424:1:10",
+    "season": 1,
+    "number": 10,
+    "name": "Close Rick-Counters of the Rick Kind"
+   },
+   {
+    "id": "tt2861424:1:11",
+    "season": 1,
+    "number": 11,
+    "name": "Ricksy Business"
+   },
+   {
+    "id": "tt2861424:2:1",
+    "season": 2,
+    "number": 1,
+    "name": "A Rickle in Time"
+   },
+   {
+    "id": "tt2861424:2:2",
+    "season": 2,
+    "number": 2,
+    "name": "Mortynight Run"
+   },
+   {
+    "id": "tt2861424:2:3",
+    "season": 2,
+    "number": 3,
+    "name": "Auto Erotic Assimilation"
+   },
+   {
+    "id": "tt2861424:2:4",
+    "season": 2,
+    "number": 4,
+    "name": "Total Rickall"
+   },
+   {
+    "id": "tt2861424:2:5",
+    "season": 2,
+    "number": 5,
+    "name": "Get Schwifty"
+   },
+   {
+    "id": "tt2861424:2:6",
+    "season": 2,
+    "number": 6,
+    "name": "The Ricks Must Be Crazy"
+   },
+   {
+    "id": "tt2861424:2:7",
+    "season": 2,
+    "number": 7,
+    "name": "Big Trouble in Little Sanchez"
+   },
+   {
+    "id": "tt2861424:2:8",
+    "season": 2,
+    "number": 8,
+    "name": "Interdimensional Cable 2: Tempting Fate"
+   },
+   {
+    "id": "tt2861424:2:9",
+    "season": 2,
+    "number": 9,
+    "name": "Look Who's Purging Now"
+   },
+   {
+    "id": "tt2861424:2:10",
+    "season": 2,
+    "number": 10,
+    "name": "The Wedding Squanchers"
+   },
+   {
+    "id": "tt2861424:3:1",
+    "season": 3,
+    "number": 1,
+    "name": "The Rickshank Rickdemption"
+   },
+   {
+    "id": "tt2861424:3:2",
+    "season": 3,
+    "number": 2,
+    "name": "Rickmancing the Stone"
+   },
+   {
+    "id": "tt2861424:3:3",
+    "season": 3,
+    "number": 3,
+    "name": "Pickle Rick"
+   },
+   {
+    "id": "tt2861424:3:4",
+    "season": 3,
+    "number": 4,
+    "name": "Vindicators 3: The Return of Worldender"
+   },
+   {
+    "id": "tt2861424:3:5",
+    "season": 3,
+    "number": 5,
+    "name": "The Whirly Dirly Conspiracy"
+   },
+   {
+    "id": "tt2861424:3:6",
+    "season": 3,
+    "number": 6,
+    "name": "Rest and Ricklaxation"
+   },
+   {
+    "id": "tt2861424:3:7",
+    "season": 3,
+    "number": 7,
+    "name": "The Ricklantis Mixup"
+   },
+   {
+    "id": "tt2861424:3:8",
+    "season": 3,
+    "number": 8,
+    "name": "Morty's Mind Blowers"
+   },
+   {
+    "id": "tt2861424:3:9",
+    "season": 3,
+    "number": 9,
+    "name": "The ABC's of Beth"
+   },
+   {
+    "id": "tt2861424:3:10",
+    "season": 3,
+    "number": 10,
+    "name": "The Rickchurian Mortydate"
+   },
+   {
+    "id": "tt2861424:4:1",
+    "season": 4,
+    "number": 1,
+    "name": "Edge of Tomorty: Rick Die Rickpeat"
+   },
+   {
+    "id": "tt2861424:4:2",
+    "season": 4,
+    "number": 2,
+    "name": "The Old Man and the Seat"
+   },
+   {
+    "id": "tt2861424:4:3",
+    "season": 4,
+    "number": 3,
+    "name": "One Crew Over the Crewcoo's Morty"
+   },
+   {
+    "id": "tt2861424:4:4",
+    "season": 4,
+    "number": 4,
+    "name": "Claw and Hoarder: Special Ricktim's Morty"
+   },
+   {
+    "id": "tt2861424:4:5",
+    "season": 4,
+    "number": 5,
+    "name": "Rattlestar Ricklactica"
+   },
+   {
+    "id": "tt2861424:4:6",
+    "season": 4,
+    "number": 6,
+    "name": "Never Ricking Morty"
+   },
+   {
+    "id": "tt2861424:4:7",
+    "season": 4,
+    "number": 7,
+    "name": "Promortyus"
+   },
+   {
+    "id": "tt2861424:4:8",
+    "season": 4,
+    "number": 8,
+    "name": "The Vat of Acid Episode"
+   },
+   {
+    "id": "tt2861424:4:9",
+    "season": 4,
+    "number": 9,
+    "name": "Childrick of Mort"
+   },
+   {
+    "id": "tt2861424:4:10",
+    "season": 4,
+    "number": 10,
+    "name": "Star Mort: Rickturn of the Jerri"
+   },
+   {
+    "id": "tt2861424:5:1",
+    "season": 5,
+    "number": 1,
+    "name": "Mort Dinner Rick Andre"
+   },
+   {
+    "id": "tt2861424:5:2",
+    "season": 5,
+    "number": 2,
+    "name": "Mortyplicity"
+   },
+   {
+    "id": "tt2861424:5:3",
+    "season": 5,
+    "number": 3,
+    "name": "A Rickconvenient Mort"
+   },
+   {
+    "id": "tt2861424:5:4",
+    "season": 5,
+    "number": 4,
+    "name": "Rickdependence Spray"
+   },
+   {
+    "id": "tt2861424:5:5",
+    "season": 5,
+    "number": 5,
+    "name": "Amortycan Grickfitti"
+   },
+   {
+    "id": "tt2861424:5:6",
+    "season": 5,
+    "number": 6,
+    "name": "Rick & Morty's Thanksploitation Spectacular"
+   },
+   {
+    "id": "tt2861424:5:7",
+    "season": 5,
+    "number": 7,
+    "name": "Gotron Jerrysis Rickvangelion"
+   },
+   {
+    "id": "tt2861424:5:8",
+    "season": 5,
+    "number": 8,
+    "name": "Rickternal Friendshine of the Spotless Mort"
+   },
+   {
+    "id": "tt2861424:5:9",
+    "season": 5,
+    "number": 9,
+    "name": "Forgetting Sarick Mortshall"
+   },
+   {
+    "id": "tt2861424:5:10",
+    "season": 5,
+    "number": 10,
+    "name": "Rickmurai Jack"
+   },
+   {
+    "id": "tt2861424:6:1",
+    "season": 6,
+    "number": 1,
+    "name": "Solaricks"
+   },
+   {
+    "id": "tt2861424:6:2",
+    "season": 6,
+    "number": 2,
+    "name": "Rick: A Mort Well Lived"
+   },
+   {
+    "id": "tt2861424:6:3",
+    "season": 6,
+    "number": 3,
+    "name": "Bethic Twinstinct"
+   },
+   {
+    "id": "tt2861424:6:4",
+    "season": 6,
+    "number": 4,
+    "name": "Night Family"
+   },
+   {
+    "id": "tt2861424:6:5",
+    "season": 6,
+    "number": 5,
+    "name": "Final DeSmithation"
+   },
+   {
+    "id": "tt2861424:6:6",
+    "season": 6,
+    "number": 6,
+    "name": "JuRicksic Mort"
+   },
+   {
+    "id": "tt2861424:6:7",
+    "season": 6,
+    "number": 7,
+    "name": "Full Meta Jackrick"
+   },
+   {
+    "id": "tt2861424:6:8",
+    "season": 6,
+    "number": 8,
+    "name": "Analyze Piss"
+   },
+   {
+    "id": "tt2861424:6:9",
+    "season": 6,
+    "number": 9,
+    "name": "A Rick in King Mortur's Mort"
+   },
+   {
+    "id": "tt2861424:6:10",
+    "season": 6,
+    "number": 10,
+    "name": "Ricktional Mortpoon's Rickmas Mortcation"
+   },
+   {
+    "id": "tt2861424:7:1",
+    "season": 7,
+    "number": 1,
+    "name": "How Poopy Got His Poop Back"
+   },
+   {
+    "id": "tt2861424:7:2",
+    "season": 7,
+    "number": 2,
+    "name": "The Jerrick Trap"
+   },
+   {
+    "id": "tt2861424:7:3",
+    "season": 7,
+    "number": 3,
+    "name": "Air Force Wong"
+   },
+   {
+    "id": "tt2861424:7:4",
+    "season": 7,
+    "number": 4,
+    "name": "That's Amorte"
+   },
+   {
+    "id": "tt2861424:7:5",
+    "season": 7,
+    "number": 5,
+    "name": "Unmortricken"
+   },
+   {
+    "id": "tt2861424:7:6",
+    "season": 7,
+    "number": 6,
+    "name": "Rickfending Your Mort"
+   },
+   {
+    "id": "tt2861424:7:7",
+    "season": 7,
+    "number": 7,
+    "name": "Wet Kuat Amortican Summer"
+   },
+   {
+    "id": "tt2861424:7:8",
+    "season": 7,
+    "number": 8,
+    "name": "Rise of the Numbericons: The Movie"
+   },
+   {
+    "id": "tt2861424:7:9",
+    "season": 7,
+    "number": 9,
+    "name": "Mort: Ragnarick"
+   },
+   {
+    "id": "tt2861424:7:10",
+    "season": 7,
+    "number": 10,
+    "name": "Fear No Mort"
+   },
+   {
+    "id": "tt2861424:8:1",
+    "season": 8,
+    "number": 1,
+    "name": "Summer of All Fears"
+   },
+   {
+    "id": "tt2861424:8:2",
+    "season": 8,
+    "number": 2,
+    "name": "Valkyrick"
+   },
+   {
+    "id": "tt2861424:8:3",
+    "season": 8,
+    "number": 3,
+    "name": "The Rick, the Mort & the Ugly"
+   },
+   {
+    "id": "tt2861424:8:4",
+    "season": 8,
+    "number": 4,
+    "name": "The Last Temptation of Jerry"
+   },
+   {
+    "id": "tt2861424:8:5",
+    "season": 8,
+    "number": 5,
+    "name": "Cryo Mort a Rickver"
+   },
+   {
+    "id": "tt2861424:8:6",
+    "season": 8,
+    "number": 6,
+    "name": "The CuRicksous Case of Bethjamin Button"
+   },
+   {
+    "id": "tt2861424:8:7",
+    "season": 8,
+    "number": 7,
+    "name": "Ricker Than Fiction"
+   },
+   {
+    "id": "tt2861424:8:8",
+    "season": 8,
+    "number": 8,
+    "name": "Nomortland"
+   },
+   {
+    "id": "tt2861424:8:9",
+    "season": 8,
+    "number": 9,
+    "name": "Morty Daddy"
+   },
+   {
+    "id": "tt2861424:8:10",
+    "season": 8,
+    "number": 10,
+    "name": "Hot Rick"
+   },
+   {
+    "id": "tt2861424:9:1",
+    "season": 9,
+    "number": 1,
+    "name": "There's Something About Morty"
+   },
+   {
+    "id": "tt2861424:9:2",
+    "season": 9,
+    "number": 2,
+    "name": "Ricks Days, Seven Nights"
+   },
+   {
+    "id": "tt2861424:9:3",
+    "season": 9,
+    "number": 3,
+    "name": "Rick Fu Hustle"
+   },
+   {
+    "id": "tt2861424:9:4",
+    "season": 9,
+    "number": 4,
+    "name": "A Ricker Runs Through It"
+   },
+   {
+    "id": "tt2861424:9:5",
+    "season": 9,
+    "number": 5,
+    "name": "Jer Bud"
+   },
+   {
+    "id": "tt2861424:9:6",
+    "season": 9,
+    "number": 6,
+    "name": "Erickerhead"
+   },
+   {
+    "id": "tt2861424:9:7",
+    "season": 9,
+    "number": 7,
+    "name": "Mortgully: The Last Rickforest"
+   },
+   {
+    "id": "tt2861424:9:8",
+    "season": 9,
+    "number": 8,
+    "name": "Rickuiem Mort a Dream"
+   },
+   {
+    "id": "tt2861424:9:9",
+    "season": 9,
+    "number": 9,
+    "name": "Salute Your Morts"
+   },
+   {
+    "id": "tt2861424:9:10",
+    "season": 9,
+    "number": 10,
+    "name": "Field of Dreams"
+   }
+  ]
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "id": "tt9990001",
+  "name": "Test Anime Chronicles",
+  "year": "2020–",
+  "releaseInfo": "2020–",
+  "genre": [
+   "Animation",
+   "Action"
+  ],
+  "genres": [
+   "Animation",
+   "Action"
+  ],
+  "country": "Japan",
+  "status": "Continuing",
+  "type": "series",
+  "videos": [
+   {
+    "id": "tt9990001:1:1",
+    "season": 1,
+    "number": 1,
+    "name": "Synthetic episode 1"
+   },
+   {
+    "id": "tt9990001:1:2",
+    "season": 1,
+    "number": 2,
+    "name": "Synthetic episode 2"
+   }
+  ]
+ }
+}

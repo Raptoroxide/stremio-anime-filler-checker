@@ -1,0 +1,809 @@
+{
+ "meta": {
+  "id": "tt2560140",
+  "name": "Attack on Titan",
+  "year": "2013–2023",
+  "releaseInfo": "2013–2023",
+  "genre": [
+   "Animation",
+   "Action",
+   "Adventure"
+  ],
+  "genres": [
+   "Animation",
+   "Action",
+   "Adventure"
+  ],
+  "country": "Japan",
+  "status": "Ended",
+  "type": "series",
+  "videos": [
+   {
+    "id": "tt2560140:0:1",
+    "season": 0,
+    "number": 1,
+    "name": "Since That Day (Recap)"
+   },
+   {
+    "id": "tt2560140:0:2",
+    "season": 0,
+    "number": 2,
+    "name": "Chibi Theatre: Fly, Cadets, Fly! ~ Day 1 & 2"
+   },
+   {
+    "id": "tt2560140:0:3",
+    "season": 0,
+    "number": 3,
+    "name": "Chibi Theatre: Fly, Cadets, Fly! ~ Day 3 & 4"
+   },
+   {
+    "id": "tt2560140:0:4",
+    "season": 0,
+    "number": 4,
+    "name": "Chibi Theatre: Fly, Cadets, Fly! ~ Day 5, 6 & 7"
+   },
+   {
+    "id": "tt2560140:0:5",
+    "season": 0,
+    "number": 5,
+    "name": "Chibi Theatre: Fly, Cadets, Fly! ~ Day 8, 9 & 10"
+   },
+   {
+    "id": "tt2560140:0:6",
+    "season": 0,
+    "number": 6,
+    "name": "Chibi Theatre: Fly, Cadets, Fly! ~ Day 11, 12 & 13"
+   },
+   {
+    "id": "tt2560140:0:7",
+    "season": 0,
+    "number": 7,
+    "name": "Ilse's Notebook: Memoirs of a Scout Regiment Member"
+   },
+   {
+    "id": "tt2560140:0:8",
+    "season": 0,
+    "number": 8,
+    "name": "Chibi Theatre: Fly, Cadets, Fly! ~ Day 14, 15 & 16"
+   },
+   {
+    "id": "tt2560140:0:9",
+    "season": 0,
+    "number": 9,
+    "name": "Chibi Theatre: Fly, Cadets, Fly! ~ Day 17, 18 & 19"
+   },
+   {
+    "id": "tt2560140:0:10",
+    "season": 0,
+    "number": 10,
+    "name": "Chibi Theatre: Fly, Cadets, Fly! ~ Day 20, 21 & 22"
+   },
+   {
+    "id": "tt2560140:0:11",
+    "season": 0,
+    "number": 11,
+    "name": "Chibi Theatre: Fly, Cadets, Fly! ~ Day 23, 24 & 25"
+   },
+   {
+    "id": "tt2560140:0:12",
+    "season": 0,
+    "number": 12,
+    "name": "The Sudden Visitor: The Torturous Curse of Youth"
+   },
+   {
+    "id": "tt2560140:0:13",
+    "season": 0,
+    "number": 13,
+    "name": "Distress"
+   },
+   {
+    "id": "tt2560140:0:14",
+    "season": 0,
+    "number": 14,
+    "name": "Attack on Titan Part I: Crimson Bow and Arrow"
+   },
+   {
+    "id": "tt2560140:0:15",
+    "season": 0,
+    "number": 15,
+    "name": "No Regrets (1)"
+   },
+   {
+    "id": "tt2560140:0:16",
+    "season": 0,
+    "number": 16,
+    "name": "Attack on Titan (Live Action Movie)"
+   },
+   {
+    "id": "tt2560140:0:17",
+    "season": 0,
+    "number": 17,
+    "name": "No Regrets (2)"
+   },
+   {
+    "id": "tt2560140:0:18",
+    "season": 0,
+    "number": 18,
+    "name": "Attack on Titan Part II: Wings of Freedom"
+   },
+   {
+    "id": "tt2560140:0:19",
+    "season": 0,
+    "number": 19,
+    "name": "Attack on Titan II - End of the World (Live Action Movie)"
+   },
+   {
+    "id": "tt2560140:0:20",
+    "season": 0,
+    "number": 20,
+    "name": "Lost Girls: Wall Sina, Goodbye (1)"
+   },
+   {
+    "id": "tt2560140:0:21",
+    "season": 0,
+    "number": 21,
+    "name": "Attack on Titan Part III: The Roar of Awakening"
+   },
+   {
+    "id": "tt2560140:0:22",
+    "season": 0,
+    "number": 22,
+    "name": "Lost Girls: Wall Sina, Goodbye (2)"
+   },
+   {
+    "id": "tt2560140:0:23",
+    "season": 0,
+    "number": 23,
+    "name": "Lost Girls: Lost in the Cruel World"
+   },
+   {
+    "id": "tt2560140:0:24",
+    "season": 0,
+    "number": 24,
+    "name": "4-Koma: Chibi Theater – Scout Regiment Scout Regiment – Levi Squad #38 / #39 / #40"
+   },
+   {
+    "id": "tt2560140:0:25",
+    "season": 0,
+    "number": 25,
+    "name": "4-Koma: Chibi Theater – Scout Regiment Scout Regiment – Levi Squad #41 / #42 / #43"
+   },
+   {
+    "id": "tt2560140:0:26",
+    "season": 0,
+    "number": 26,
+    "name": "4-Koma: Chibi Theater – Scout Regiment Scout Regiment – Levi Squad #44 / #45 / #46"
+   },
+   {
+    "id": "tt2560140:0:27",
+    "season": 0,
+    "number": 27,
+    "name": "4-Koma: Chibi Theater – Scout Regiment Scout Regiment – Levi Squad #47 / #48 / #49"
+   },
+   {
+    "id": "tt2560140:0:28",
+    "season": 0,
+    "number": 28,
+    "name": "4-Koma: Chibi Theater – Scout Regiment Scout Regiment – Levi Squad #50 / #51 / #52"
+   },
+   {
+    "id": "tt2560140:0:29",
+    "season": 0,
+    "number": 29,
+    "name": "4-Koma: Chibi Theater – Scout Regiment Scout Regiment – Levi Squad #53 / #54 / #55"
+   },
+   {
+    "id": "tt2560140:0:30",
+    "season": 0,
+    "number": 30,
+    "name": "4-Koma: Chibi Theater – Scout Regiment Scout Regiment – Levi Squad #56 / #57 / #58 / #59"
+   },
+   {
+    "id": "tt2560140:0:31",
+    "season": 0,
+    "number": 31,
+    "name": "Attack on Titan ~ Chronicle ~"
+   },
+   {
+    "id": "tt2560140:0:32",
+    "season": 0,
+    "number": 32,
+    "name": "―Special Omnibus― 1st Night ～The Battle Between Humanity and Titans～"
+   },
+   {
+    "id": "tt2560140:0:33",
+    "season": 0,
+    "number": 33,
+    "name": "―Special Omnibus― 2nd Night ～The Emergence of The Intelligent Titans～"
+   },
+   {
+    "id": "tt2560140:0:34",
+    "season": 0,
+    "number": 34,
+    "name": "―Special Omnibus― 3rd Night ～The Uprising of the Scout Regiment and the True Ruler～"
+   },
+   {
+    "id": "tt2560140:0:35",
+    "season": 0,
+    "number": 35,
+    "name": "―Special Omnibus― 4th Night ～The Truth of the Titans and the Secret of the Walls～"
+   },
+   {
+    "id": "tt2560140:0:36",
+    "season": 0,
+    "number": 36,
+    "name": "Chimi Chara Theater \"Four-frame Survey Corps Final\" 60th day"
+   },
+   {
+    "id": "tt2560140:0:37",
+    "season": 0,
+    "number": 37,
+    "name": "Chimi Chara Theater \"Four-frame Survey Corps Final\" 68th day"
+   },
+   {
+    "id": "tt2560140:0:38",
+    "season": 0,
+    "number": 38,
+    "name": "―Special Omnibus― 5th Night ～Marley's Warriors and the Island's Devils～"
+   },
+   {
+    "id": "tt2560140:0:39",
+    "season": 0,
+    "number": 39,
+    "name": "―Special Omnibus― 6th Night ～Decisions of Future～"
+   },
+   {
+    "id": "tt2560140:0:49",
+    "season": 0,
+    "number": 49,
+    "name": "―Special Omnibus― 7th Night ～Footsteps of the End～"
+   },
+   {
+    "id": "tt2560140:0:50",
+    "season": 0,
+    "number": 50,
+    "name": "Attack on Titan: THE LAST ATTACK"
+   },
+   {
+    "id": "tt2560140:0:51",
+    "season": 0,
+    "number": 51,
+    "name": "Attack on Titan The Final Season SPECIAL EVENT 2022"
+   },
+   {
+    "id": "tt2560140:1:1",
+    "season": 1,
+    "number": 1,
+    "name": "To You, in 2,000 Years: The Fall of Shiganshina (1)"
+   },
+   {
+    "id": "tt2560140:1:2",
+    "season": 1,
+    "number": 2,
+    "name": "That Day: The Fall of Shiganshina (2)"
+   },
+   {
+    "id": "tt2560140:1:3",
+    "season": 1,
+    "number": 3,
+    "name": "A Dim Light Amid Despair: Humanity's Comeback (1)"
+   },
+   {
+    "id": "tt2560140:1:4",
+    "season": 1,
+    "number": 4,
+    "name": "The Night of the Closing Ceremony: Humanity's Comeback (2)"
+   },
+   {
+    "id": "tt2560140:1:5",
+    "season": 1,
+    "number": 5,
+    "name": "First Battle: The Struggle for Trost (1)"
+   },
+   {
+    "id": "tt2560140:1:6",
+    "season": 1,
+    "number": 6,
+    "name": "The World the Girl Saw: The Struggle for Trost (2)"
+   },
+   {
+    "id": "tt2560140:1:7",
+    "season": 1,
+    "number": 7,
+    "name": "Small Blade: The Struggle for Trost (3)"
+   },
+   {
+    "id": "tt2560140:1:8",
+    "season": 1,
+    "number": 8,
+    "name": "I Can Hear His Heartbeat: The Struggle for Trost (4)"
+   },
+   {
+    "id": "tt2560140:1:9",
+    "season": 1,
+    "number": 9,
+    "name": "Whereabouts of His Left Arm: The Struggle for Trost (5)"
+   },
+   {
+    "id": "tt2560140:1:10",
+    "season": 1,
+    "number": 10,
+    "name": "Response: The Struggle for Trost (6)"
+   },
+   {
+    "id": "tt2560140:1:11",
+    "season": 1,
+    "number": 11,
+    "name": "Idol: The Struggle for Trost (7)"
+   },
+   {
+    "id": "tt2560140:1:12",
+    "season": 1,
+    "number": 12,
+    "name": "Wound: The Struggle for Trost (8)"
+   },
+   {
+    "id": "tt2560140:1:13",
+    "season": 1,
+    "number": 13,
+    "name": "Primal Desire: The Struggle for Trost (9)"
+   },
+   {
+    "id": "tt2560140:1:14",
+    "season": 1,
+    "number": 14,
+    "name": "Can't Look into His Eyes Yet: Eve of the Counterattack (1)"
+   },
+   {
+    "id": "tt2560140:1:15",
+    "season": 1,
+    "number": 15,
+    "name": "Special Operations Squad: Eve of the Counterattack (2)"
+   },
+   {
+    "id": "tt2560140:1:16",
+    "season": 1,
+    "number": 16,
+    "name": "What Needs to Be Done Now: Eve of the Counterattack (3)"
+   },
+   {
+    "id": "tt2560140:1:17",
+    "season": 1,
+    "number": 17,
+    "name": "Female Titan: The 57th Exterior Scouting Mission (1)"
+   },
+   {
+    "id": "tt2560140:1:18",
+    "season": 1,
+    "number": 18,
+    "name": "Forest of Giant Trees: The 57th Exterior Scouting Mission (2)"
+   },
+   {
+    "id": "tt2560140:1:19",
+    "season": 1,
+    "number": 19,
+    "name": "Bite: The 57th Exterior Scouting Mission (3)"
+   },
+   {
+    "id": "tt2560140:1:20",
+    "season": 1,
+    "number": 20,
+    "name": "Erwin Smith: The 57th Exterior Scouting Mission (4)"
+   },
+   {
+    "id": "tt2560140:1:21",
+    "season": 1,
+    "number": 21,
+    "name": "Crushing Blow: The 57th Exterior Scouting Mission (5)"
+   },
+   {
+    "id": "tt2560140:1:22",
+    "season": 1,
+    "number": 22,
+    "name": "The Defeated: The 57th Exterior Scouting Mission (6)"
+   },
+   {
+    "id": "tt2560140:1:23",
+    "season": 1,
+    "number": 23,
+    "name": "Smile: Assault on Stohess (1)"
+   },
+   {
+    "id": "tt2560140:1:24",
+    "season": 1,
+    "number": 24,
+    "name": "Mercy: Assault on Stohess (2)"
+   },
+   {
+    "id": "tt2560140:1:25",
+    "season": 1,
+    "number": 25,
+    "name": "Wall: Assault on Stohess (3)"
+   },
+   {
+    "id": "tt2560140:2:1",
+    "season": 2,
+    "number": 1,
+    "name": "Beast Titan"
+   },
+   {
+    "id": "tt2560140:2:2",
+    "season": 2,
+    "number": 2,
+    "name": "I'm Home"
+   },
+   {
+    "id": "tt2560140:2:3",
+    "season": 2,
+    "number": 3,
+    "name": "Southwestward"
+   },
+   {
+    "id": "tt2560140:2:4",
+    "season": 2,
+    "number": 4,
+    "name": "Soldier"
+   },
+   {
+    "id": "tt2560140:2:5",
+    "season": 2,
+    "number": 5,
+    "name": "Historia"
+   },
+   {
+    "id": "tt2560140:2:6",
+    "season": 2,
+    "number": 6,
+    "name": "Warrior"
+   },
+   {
+    "id": "tt2560140:2:7",
+    "season": 2,
+    "number": 7,
+    "name": "Close Combat"
+   },
+   {
+    "id": "tt2560140:2:8",
+    "season": 2,
+    "number": 8,
+    "name": "The Hunters"
+   },
+   {
+    "id": "tt2560140:2:9",
+    "season": 2,
+    "number": 9,
+    "name": "Opening"
+   },
+   {
+    "id": "tt2560140:2:10",
+    "season": 2,
+    "number": 10,
+    "name": "Children"
+   },
+   {
+    "id": "tt2560140:2:11",
+    "season": 2,
+    "number": 11,
+    "name": "Charge"
+   },
+   {
+    "id": "tt2560140:2:12",
+    "season": 2,
+    "number": 12,
+    "name": "Scream"
+   },
+   {
+    "id": "tt2560140:3:1",
+    "season": 3,
+    "number": 1,
+    "name": "Smoke Signal"
+   },
+   {
+    "id": "tt2560140:3:2",
+    "season": 3,
+    "number": 2,
+    "name": "Pain"
+   },
+   {
+    "id": "tt2560140:3:3",
+    "season": 3,
+    "number": 3,
+    "name": "Old Story"
+   },
+   {
+    "id": "tt2560140:3:4",
+    "season": 3,
+    "number": 4,
+    "name": "Trust"
+   },
+   {
+    "id": "tt2560140:3:5",
+    "season": 3,
+    "number": 5,
+    "name": "Reply"
+   },
+   {
+    "id": "tt2560140:3:6",
+    "season": 3,
+    "number": 6,
+    "name": "Sin"
+   },
+   {
+    "id": "tt2560140:3:7",
+    "season": 3,
+    "number": 7,
+    "name": "Wish"
+   },
+   {
+    "id": "tt2560140:3:8",
+    "season": 3,
+    "number": 8,
+    "name": "Outside the Walls of Orvud District"
+   },
+   {
+    "id": "tt2560140:3:9",
+    "season": 3,
+    "number": 9,
+    "name": "Ruler of the Walls"
+   },
+   {
+    "id": "tt2560140:3:10",
+    "season": 3,
+    "number": 10,
+    "name": "Friends"
+   },
+   {
+    "id": "tt2560140:3:11",
+    "season": 3,
+    "number": 11,
+    "name": "Bystander"
+   },
+   {
+    "id": "tt2560140:3:12",
+    "season": 3,
+    "number": 12,
+    "name": "Night of the Battle to Retake the Wall"
+   },
+   {
+    "id": "tt2560140:3:13",
+    "season": 3,
+    "number": 13,
+    "name": "The Town Where Everything Began"
+   },
+   {
+    "id": "tt2560140:3:14",
+    "season": 3,
+    "number": 14,
+    "name": "Thunder Spears"
+   },
+   {
+    "id": "tt2560140:3:15",
+    "season": 3,
+    "number": 15,
+    "name": "Descent"
+   },
+   {
+    "id": "tt2560140:3:16",
+    "season": 3,
+    "number": 16,
+    "name": "Perfect Game"
+   },
+   {
+    "id": "tt2560140:3:17",
+    "season": 3,
+    "number": 17,
+    "name": "Hero"
+   },
+   {
+    "id": "tt2560140:3:18",
+    "season": 3,
+    "number": 18,
+    "name": "Midnight Sun"
+   },
+   {
+    "id": "tt2560140:3:19",
+    "season": 3,
+    "number": 19,
+    "name": "The Basement"
+   },
+   {
+    "id": "tt2560140:3:20",
+    "season": 3,
+    "number": 20,
+    "name": "That Day"
+   },
+   {
+    "id": "tt2560140:3:21",
+    "season": 3,
+    "number": 21,
+    "name": "Attack Titan"
+   },
+   {
+    "id": "tt2560140:3:22",
+    "season": 3,
+    "number": 22,
+    "name": "The Other Side of the Wall"
+   },
+   {
+    "id": "tt2560140:4:1",
+    "season": 4,
+    "number": 1,
+    "name": "The Other Side of the Sea"
+   },
+   {
+    "id": "tt2560140:4:2",
+    "season": 4,
+    "number": 2,
+    "name": "Midnight Train"
+   },
+   {
+    "id": "tt2560140:4:3",
+    "season": 4,
+    "number": 3,
+    "name": "The Door of Hope"
+   },
+   {
+    "id": "tt2560140:4:4",
+    "season": 4,
+    "number": 4,
+    "name": "From One Hand to Another"
+   },
+   {
+    "id": "tt2560140:4:5",
+    "season": 4,
+    "number": 5,
+    "name": "Declaration of War"
+   },
+   {
+    "id": "tt2560140:4:6",
+    "season": 4,
+    "number": 6,
+    "name": "The War Hammer Titan"
+   },
+   {
+    "id": "tt2560140:4:7",
+    "season": 4,
+    "number": 7,
+    "name": "Assault"
+   },
+   {
+    "id": "tt2560140:4:8",
+    "season": 4,
+    "number": 8,
+    "name": "Assassin's Bullet"
+   },
+   {
+    "id": "tt2560140:4:9",
+    "season": 4,
+    "number": 9,
+    "name": "Brave Volunteers"
+   },
+   {
+    "id": "tt2560140:4:10",
+    "season": 4,
+    "number": 10,
+    "name": "A Sound Argument"
+   },
+   {
+    "id": "tt2560140:4:11",
+    "season": 4,
+    "number": 11,
+    "name": "Deceiver"
+   },
+   {
+    "id": "tt2560140:4:12",
+    "season": 4,
+    "number": 12,
+    "name": "Guides"
+   },
+   {
+    "id": "tt2560140:4:13",
+    "season": 4,
+    "number": 13,
+    "name": "Children of the Forest"
+   },
+   {
+    "id": "tt2560140:4:14",
+    "season": 4,
+    "number": 14,
+    "name": "Savagery"
+   },
+   {
+    "id": "tt2560140:4:15",
+    "season": 4,
+    "number": 15,
+    "name": "Sole Salvation"
+   },
+   {
+    "id": "tt2560140:4:16",
+    "season": 4,
+    "number": 16,
+    "name": "Above and Below"
+   },
+   {
+    "id": "tt2560140:4:17",
+    "season": 4,
+    "number": 17,
+    "name": "Judgment"
+   },
+   {
+    "id": "tt2560140:4:18",
+    "season": 4,
+    "number": 18,
+    "name": "Sneak Attack"
+   },
+   {
+    "id": "tt2560140:4:19",
+    "season": 4,
+    "number": 19,
+    "name": "Two Brothers"
+   },
+   {
+    "id": "tt2560140:4:20",
+    "season": 4,
+    "number": 20,
+    "name": "Memories of the Future"
+   },
+   {
+    "id": "tt2560140:4:21",
+    "season": 4,
+    "number": 21,
+    "name": "From You, 2,000 Years Ago"
+   },
+   {
+    "id": "tt2560140:4:22",
+    "season": 4,
+    "number": 22,
+    "name": "Thaw"
+   },
+   {
+    "id": "tt2560140:4:23",
+    "season": 4,
+    "number": 23,
+    "name": "Sunset"
+   },
+   {
+    "id": "tt2560140:4:24",
+    "season": 4,
+    "number": 24,
+    "name": "Pride"
+   },
+   {
+    "id": "tt2560140:4:25",
+    "season": 4,
+    "number": 25,
+    "name": "Night of the End"
+   },
+   {
+    "id": "tt2560140:4:26",
+    "season": 4,
+    "number": 26,
+    "name": "Traitor"
+   },
+   {
+    "id": "tt2560140:4:27",
+    "season": 4,
+    "number": 27,
+    "name": "Retrospective"
+   },
+   {
+    "id": "tt2560140:4:28",
+    "season": 4,
+    "number": 28,
+    "name": "The Dawn of Humanity"
+   },
+   {
+    "id": "tt2560140:4:29",
+    "season": 4,
+    "number": 29,
+    "name": "The Final Chapters: Special 1"
+   },
+   {
+    "id": "tt2560140:4:30",
+    "season": 4,
+    "number": 30,
+    "name": "The Final Chapters Special 2"
+   }
+  ]
+ }
+}

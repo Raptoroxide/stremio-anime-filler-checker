@@ -1,0 +1,18 @@
+{
+ "data": {
+  "id": "12",
+  "type": "anime",
+  "attributes": {
+   "canonicalTitle": "One Piece",
+   "titles": {
+    "en": "One Piece",
+    "en_jp": "One Piece",
+    "ja_jp": "ONE PIECE"
+   },
+   "startDate": "1999-10-20",
+   "episodeCount": null,
+   "subtype": "TV",
+   "status": "current"
+  }
+ }
+}
