@@ -1,0 +1,26 @@
+{
+  "name": "stremio-anime-filler-checker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Stremio add-on that tells you whether an anime episode is Manga Canon, Anime Canon, Mixed Canon/Filler, Filler, or Unknown. Informational only — provides no video streams.",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node dev-server.mjs",
+    "dev": "node dev-server.mjs",
+    "test": "node --test",
+    "build": "node scripts/check-syntax.js",
+    "smoke": "node scripts/smoke.js",
+    "update-data": "node scripts/update-data.mjs"
+  },
+  "keywords": [
+    "stremio",
+    "stremio-addon",
+    "anime",
+    "filler",
+    "canon"
+  ]
+}

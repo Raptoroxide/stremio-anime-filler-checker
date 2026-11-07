@@ -1,0 +1,17 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "functions": {
+    "api/index.js": {
+      "maxDuration": 30
+    }
+  },
+  "rewrites": [
+    { "source": "/", "destination": "/api/index" },
+    { "source": "/manifest.json", "destination": "/api/index" },
+    { "source": "/health", "destination": "/api/index" },
+    { "source": "/check", "destination": "/api/index" },
+    { "source": "/badge.vtt", "destination": "/api/index" },
+    { "source": "/stream/:path*", "destination": "/api/index" },
+    { "source": "/subtitles/:path*", "destination": "/api/index" }
+  ]
+}
